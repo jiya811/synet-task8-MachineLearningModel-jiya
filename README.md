@@ -1,0 +1,1 @@
+# synet-task8-MachineLearningModel-jiya
