@@ -46,5 +46,3 @@ The model is deployed using Streamlit to provide an interactive user interface.
 - Seaborn
 
 ---
-
-## 📂 Project Structure
